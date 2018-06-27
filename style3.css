@@ -1,0 +1,26 @@
+
+.container{
+  display: flex;
+  background: #bcd5ff;
+  padding: 10px 50px
+}
+
+.container .sidebar{
+  flex-direction: column;
+}
+
+#sidebar div{
+  margin: 5px 0;
+  text-align: center;
+}
+
+.sidebar .col-xs-1{
+    padding: 10px 0;
+    background-color: white;
+}
+
+img{
+  height: 100%;
+  width: 100%;
+  padding:  10px;
+}

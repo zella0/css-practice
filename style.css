@@ -1,0 +1,19 @@
+.container.outer{
+  background: #bcd5ff;
+  /* padding-left: 40px */
+  padding: 10px 30px
+}
+
+.container.inner.clearfix{
+  overflow: auto;
+  background: #f9fbff;
+  margin: 25px 0px;
+  padding: 20px 0px 20px 20px;
+}
+
+
+img{
+  height: 100%;
+  width: 100%;
+  padding:  10px;
+}

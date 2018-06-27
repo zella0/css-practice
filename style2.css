@@ -1,0 +1,29 @@
+
+div h1{
+  font-weight: bold;
+  text-align: center;
+  font-size: 75px;
+  padding: 40px 10px;
+}
+
+.figure-caption{
+  text-align: center;
+  font-size: 20px;
+}
+
+.container.outer{
+  background: #bcd5ff;
+  padding: 10px 50px
+}
+
+#textContainer{
+    background: #f9fbff;
+    padding: 20px 40px;
+    margin: 50px 0px;
+}
+
+img{
+  height: 100%;
+  width: 100%;
+  padding:  10px;
+}
